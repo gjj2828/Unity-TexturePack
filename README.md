@@ -1,2 +1,2 @@
 # Unity-TexturePack
-材质通道合并示例
+纹理通道合并示例
