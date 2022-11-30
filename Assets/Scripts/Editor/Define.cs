@@ -4,5 +4,5 @@ using UnityEngine;
 
 public static class Define
 {
-    public const string TEXTURE_PACK_EXTENSION = "dummy";
+    public const string TEXTURE_PACK_EXTENSION = "texpack";
 }
